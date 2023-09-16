@@ -27,6 +27,7 @@ body{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    border-radius:10px;
 }
 .logo{
     display: flex;
